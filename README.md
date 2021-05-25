@@ -1,6 +1,5 @@
 [![Code Size](https://img.shields.io/github/languages/code-size/spotlight9k/algorithms-complexity)]() [![Repo Size](https://img.shields.io/github/repo-size/spotlight9k/algorithms-complexity)]() [![open issues](https://img.shields.io/github/issues-raw/spotlight9k/algorithms-complexity)]() [![whatchers](https://img.shields.io/github/watchers/spotlight9k/algorithms-complexity?style=social)]() 
 
-https://img.shields.io/github/watchers/spotlight9k/algorithms-complexity?style=social
 # Aims of the research:
 
 The aim of this research is to compare estimate the time complexity of  different multiplication algorithms via experiments. 
