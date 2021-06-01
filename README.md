@@ -12,15 +12,21 @@ There are 3 algorithms to compare:
 # Problem steps:
 
 **1.**  I have to create class of a large number **Num**, using vector or string, and implement functions and operators there.
+
 **2.**  I have to create a class **Multiplicator**. The class allows calculating a product of two integer numbers by applying different multiplication algorithms.
    * We are allowed to use C++ built-in multiplication for doing one-digit multiplications (eg, 3 times 5) but not any other multiplication (eg, 23 times 55).
    * We are allowed to use C++ built-in addition (even of large numbers).
    
 **3.**   Create a method in the **Multiplicator** that generates a random number of k-digits, where k is a parameter of the method.
+
 **4.**   In **Multiplicator** class I need create auxiliary methods needed to implement the **Grade School multiplication algorithm**, the **Divide-and-Conquer multiplication algorithm** and the **Karatsuba algorithm**.
+
 **5.**  Implement the **Grade School multiplication algorithm**, the **Divide-and-Conquer multiplication algorithm** and the **Karatsuba algorithm** asmethods of **Multiplicator**.
+
 **6.**  Create a method that performs calculation of a series of numbers containing from **1 to k** digits by applying both algorithms. 
+
 **7.**  Create a method that outputs the experimental results stored in the vector as a CSV file containing exactly 3 columns: size of input data and resulting time for all algorithms.
+
 **8.**  Based on the produced file, line charts are drawn by using Python's Matplotlib
 
 # Implementation:
